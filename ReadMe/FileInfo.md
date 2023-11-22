@@ -22,7 +22,7 @@ Print out a file's information (name, size, type, owner, created at, and path).
 #### Implementation
 Do the implementation of the `printFileInfo` method:
 1. Instantiate an object from the `Path`, and uses `get` method from the class `Paths` and pass the file's path into the `get` Argument.
-2. Create a variables and By using `Files` class get the file information.
+2. In the `printFileInfo` method, create a variables and then use the methods from class `Files` to get the file information.
 3. Print out the file's name, size, type, owner, and created at.
 
 
