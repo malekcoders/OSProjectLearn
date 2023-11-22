@@ -1,7 +1,7 @@
 ### Get File Information
 
 #### Objectives
-Understand how to access a file's information, such as the file's name, size, and path.
+Understand how to access a directory and retrive files from the directory.
 
 #### Concepts
 These concepts are the main used concepts in the project solution, kindly read the provided resources if any is new to you.
