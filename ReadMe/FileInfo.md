@@ -8,7 +8,7 @@ These concepts are the main used concepts in the project solution, kindly read t
 
 | Concepts                                          | Resources                                                                                                             |
 |---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| Accessing a file/directory                        | [Dev.Java ](https://www.youtube.com/watch?v=SslMi6ptwH8&t=364s)                                                       |
+| Accessing a file/directory                        | [Dev.Java ](https://dev.java/learn/java-io/)                                                       |
 | File Handling in Java                             | [Edureka Java handling file ](https://www.youtube.com/watch?v=SslMi6ptwH8&t=364s)                                     |
 | Understand File, FileReader,and  FileWriter class | [Artical File class in Java](https://www.codecademy.com/resources/docs/java/files)                                    |
 | Write into a file                                 | [DigitalOcean Artical - Java File Handling](https://www.digitalocean.com/community/tutorials/java-filewriter-example) |

@@ -1,6 +1,6 @@
 ### Write into a text file
 
-#### Objectives
+#### Objective
 Understand how to append data into an existing file using Java I/O API.
 
 #### Concepts

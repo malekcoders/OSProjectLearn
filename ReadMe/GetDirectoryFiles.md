@@ -1,6 +1,6 @@
 ### Get File Information
 
-#### Objectives
+#### Objective
 Understand how to access a directory and retrieve the files from the directory.
 
 #### Concepts

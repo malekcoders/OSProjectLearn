@@ -4,7 +4,7 @@
 Understand how to Rename/Move a file in Java using I/O API.
 
 > Rename and Move are the same operation, the difference is that when you move a file you are changing the path of the file.
-#### Concepts
+#### Concept
 The following table list the concepts and resources that you can use to learn more about them.
 It will explain the Java File System, and how to use the Path interface to work with files and directories.
 

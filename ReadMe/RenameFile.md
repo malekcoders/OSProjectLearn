@@ -1,6 +1,6 @@
 ### Move/Rename File
 
-#### Objectives
+#### Objective
 Understand how to Rename/Move a file in Java using I/O API. 
 
 > Rename and Move are the same operation, the difference is that when you move a file you are changing the path of the file.

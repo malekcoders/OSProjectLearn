@@ -3,7 +3,7 @@
 #### Objectives
 Understand the File class and Path interface in Java, and how to use them to create a file.
 
-#### Concepts
+#### Concept
 These concepts are the main used concepts in the project solution, kindly read the provided resources if any is new to you.
 
 | Concepts                                          | Resources                                                                                                             |
