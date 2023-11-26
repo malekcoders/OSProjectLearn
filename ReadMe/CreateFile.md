@@ -23,8 +23,8 @@ Create a file in the project directory.
 
 Do the implementation in the main method of the `CreateFile` class:
 
-1. Initialize a variable with `Path` data type , and assign it to `Paths.get(/* file path*/)`.
-2. Call the `createFile()` method from the `Files` class directly, and then pass the path variable that you have created.
+1. Initialize a variable with `Path` data type , and assign it `Paths.get(/* file path*/)`.
+2. Call the `createFile()` method from the `Files` class directly, and then pass the path variable that you just created.
 
 ```java
 public static void main(String[] args) throws IOException{
