@@ -27,9 +27,8 @@ public class FileInfo {
 
     public static void main(String[] args) throws IOException {
 
-        String fileDir = System.getProperty("user.dir") + "/src/note.txt";
-
-        printFileInfo(fileDir);
+        String filePath = "src/note.txt";
+        printFileInfo(filePath);
 
     }
 }
