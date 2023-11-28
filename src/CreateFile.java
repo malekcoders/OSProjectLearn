@@ -7,6 +7,7 @@ public class CreateFile {
 
     public static void main(String[] args) throws IOException{
         /* You Code Here */
-        
+        Path path = Paths.get("src/not.txt");
+        Files.createFile(path);
     }
 }

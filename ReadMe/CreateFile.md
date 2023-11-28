@@ -24,10 +24,12 @@ Create a file in the project directory.
 Do the implementation in the main method of the `CreateFile` class:
 
 1. Initialize a variable with `Path` data type , and assign it `Paths.get(/* file path*/)`.
-2. Call the `createFile()` method from the `Files` class directly, and then pass the path variable that you just created.
+2. Call the `createFile()` method from the `Files` class, and then pass the path variable that you just created.
 
 ```java
-public static void main(String[] args) throws IOException{
+ public static void main(String[] args) throws IOException{
         /* You Code Here */
 }
 ```
+
+> You can use either `Path` or `File` class to create a file, but `Path` class is more recommended by dev.java.
